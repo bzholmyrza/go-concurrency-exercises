@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="230a41d9-771d-47bc-a6ec-f7c04019bb0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Users\ASUS\go\go1.16.3" />
+  <component name="ProjectId" id="1rREO5BqK6TEPFZxo4xMmjPXkS4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.autoimport" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build gitlab.com/bzholmyrza/go-concurrency-exercises-master/1-producer-consumer">
+    <configuration name="go build gitlab.com/bzholmyrza/go-concurrency-exercises-master/0-limit-crawler" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-concurrency-exercises-master" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/0-limit-crawler/main.go" />
+      <package value="gitlab.com/bzholmyrza/go-concurrency-exercises-master/0-limit-crawler" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gitlab.com/bzholmyrza/go-concurrency-exercises-master/1-producer-consumer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-concurrency-exercises-master" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/1-producer-consumer/main.go" />
+      <package value="gitlab.com/bzholmyrza/go-concurrency-exercises-master/1-producer-consumer" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test gitlab.com/bzholmyrza/go-concurrency-exercises-master/0-limit-crawler" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-concurrency-exercises-master" />
+      <working_directory value="$PROJECT_DIR$/0-limit-crawler" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="gitlab.com/bzholmyrza/go-concurrency-exercises-master/0-limit-crawler" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build gitlab.com/bzholmyrza/go-concurrency-exercises-master/1-producer-consumer" />
+        <item itemvalue="Go Test.go test gitlab.com/bzholmyrza/go-concurrency-exercises-master/0-limit-crawler" />
+        <item itemvalue="Go Build.go build gitlab.com/bzholmyrza/go-concurrency-exercises-master/0-limit-crawler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="78" y="14" width="1089" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619000756788">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="78" y="14" width="1089" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1619000756788" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1619005271314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619005271314" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1619005271314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619005271314" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1619005271314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619005271314" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1619005271314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619005271314" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/go_concurrency_exercises_master$go_test_gitlab_com_bzholmyrza_go_concurrency_exercises_master_0_limit_crawler__1_.out" NAME="go test gitlab.com/bzholmyrza/go-concurrency-exercises-master/0-limit-crawler (1) Coverage Results" MODIFIED="1618998681143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
